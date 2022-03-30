@@ -1,6 +1,6 @@
 # jearth-shop
 
-Site la marque Jearth qui combien site vitrine et boutique. 
+Site de la marque Jearth qui combine site vitrine et boutique. 
 
 ---
 

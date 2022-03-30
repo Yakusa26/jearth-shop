@@ -4,6 +4,19 @@ Site la marque Jearth qui combien site vitrine et boutique.
 
 ---
 
+## 💿 Installation des outils nécessaires
+
+### Télécharger et installer NodeJS
+
+```
+https://nodejs.org/dist/v16.14.2/node-v16.14.2-x64.msi
+```
+### Télécharger et installer Git
+
+```
+https://git-scm.com/downloads
+```
+
 ## 💿 Installation du projet
 
 Après le clone du projet

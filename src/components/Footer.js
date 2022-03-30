@@ -16,17 +16,26 @@ function Footer() {
             <div className="footer_social d-flex flex-row align-items-center justify-content-lg-end justify-content-center">
               <ul>
                 <li>
-                  <a href="#">
+                  <a
+                    target="_blank"
+                    href="https://www.facebook.com/Jearth-Shop-110147591649343"
+                  >
                     <i className="fa fa-facebook" aria-hidden="true"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a
+                    target="_blank"
+                    href="https://www.linkedin.com/in/jearth-shop-5381ab236/"
+                  >
                     <i className="fa fa-linkedin" aria-hidden="true"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a
+                    target="_blank"
+                    href="https://www.instagram.com/jearth.shop/?utm_medium=copy_link"
+                  >
                     <i className="fa fa-instagram" aria-hidden="true"></i>
                   </a>
                 </li>

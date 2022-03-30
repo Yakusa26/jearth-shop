@@ -1,5 +1,4 @@
-import { Link } from "react-router-dom";
-function Header() {
+function Header(props) {
   return (
     <header className="header trans_300">
       {/* <!-- Top Navigation --> */}
@@ -14,7 +13,6 @@ function Header() {
             <div className="col-md-6 text-right">
               <div className="top_nav_right">
                 <ul className="top_nav_menu">
-                  {/* <!-- Currency / Language / My Account --> */}
                   <li className="account">
                     <a href="#">
                       Mon compte
@@ -47,9 +45,7 @@ function Header() {
           <div className="row">
             <div className="col-lg-12 text-right">
               <div className="logo_container">
-                <a href="#">
-                  J<span>ea</span>rth
-                </a>
+                <img style={{ width: "200px" }} src="images/logo.png" />
               </div>
               <nav className="navbar">
                 <ul className="navbar_menu">
@@ -65,11 +61,13 @@ function Header() {
                 </ul>
                 <ul className="navbar_user">
                   <li className="checkout">
-                    <a href="#">
+                    <a href="/panier">
                       <i className="fa fa-shopping-cart" aria-hidden="true"></i>
-                      <span id="checkout_items" className="checkout_items">
-                        5
-                      </span>
+                      {props.count > 0 ? (
+                        <span id="checkout_items" className="checkout_items">
+                          {props.count}
+                        </span>
+                      ) : null}
                     </a>
                   </li>
                 </ul>

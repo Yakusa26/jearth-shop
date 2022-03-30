@@ -9,6 +9,7 @@ import {
 import Home from "./screens/Home";
 import Shop from "./screens/Shop";
 import Contact from "./screens/Contact";
+import Cady from "./screens/Cady";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/accueil" element={<Home />} />
           <Route path="/boutique" element={<Shop />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/panier" element={<Cady />} />
           <Route path="/" element={<Navigate replace to="/accueil" />} />
         </Routes>
       </Router>

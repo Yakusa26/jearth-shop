@@ -1,0 +1,107 @@
+[
+    {
+        "product_category":"women",
+        "product_name":"Combi Anna",
+        "product_price": "140",
+        "product_image": "images/anna.png",
+        "product_image_alt":"Combi Anna",
+        "product_reduction":"10"
+    },
+    {
+        "product_category":"women",
+        "product_name":"Haut Mina",
+        "product_price": "110",
+        "product_image": "images/mina.png",
+        "product_image_alt":"Haut Mina",
+        "product_reduction":"0"
+    }
+    ,
+    {
+        "product_category":"women",
+        "product_name":"Jupe Lili",
+        "product_price": "140",
+        "product_image": "images/lili.png",
+        "product_image_alt":"Jupe Lili",
+        "product_reduction":"20"
+    },
+    {
+        "product_category":"women",
+        "product_name":"Haut Marie",
+        "product_price": "100",
+        "product_image": "images/01.png",
+        "product_image_alt":"Haut Marie",
+        "product_reduction":"0"
+    },
+    {
+        "product_category":"women",
+        "product_name":"Pantalon Mia",
+        "product_price": "160",
+        "product_image": "images/02.png",
+        "product_image_alt":"Pantalon Mia",
+        "product_reduction":"0"
+    },
+    {
+        "product_category":"women",
+        "product_name":"Robe Lola",
+        "product_price": "160",
+        "product_image": "images/03.png",
+        "product_image_alt":"Robe Lola",
+        "product_reduction":"0"
+    },
+    {
+        "product_category":"women men",
+        "product_name":"Robe Bella",
+        "product_price": "140",
+        "product_image": "images/bella.png",
+        "product_image_alt":"Robe Bella",
+        "product_reduction":"20"
+    },
+    {
+        "product_category":"women",
+        "product_name":"Panatalon Elodie",
+        "product_price": "160",
+        "product_image": "images/elodie.png",
+        "product_image_alt":"Panatalon Elodie",
+        "product_reduction":"5"
+    },
+    {
+        "product_category":"men",
+        "product_name":"Haut Diana",
+        "product_price": "110",
+        "product_image": "images/diana.png",
+        "product_image_alt":"Haut Diana",
+        "product_reduction":"0"
+    },
+    {
+        "product_category":"women",
+        "product_name":"Haut Nana",
+        "product_price": "110",
+        "product_image": "images/nana.png",
+        "product_image_alt":"Haut Nana",
+        "product_reduction":"0"
+    },
+    {
+        "product_category":"women",
+        "product_name":"Haut Kim",
+        "product_price": "110",
+        "product_image": "images/kim.png",
+        "product_image_alt":"Haut Kim",
+        "product_reduction":"20"
+    },
+    {
+        "product_category":"women",
+        "product_name":"Jupe Clara",
+        "product_price": "140",
+        "product_image": "images/clara.png",
+        "product_image_alt":"Haut Kim",
+        "product_reduction":"20"
+    },
+    {
+        "product_category":"women",
+        "product_name":"Jupe Pauline",
+        "product_price": "120",
+        "product_image": "images/pauline.png",
+        "product_image_alt":"Haut Kim",
+        "product_reduction":"20"
+    }
+]

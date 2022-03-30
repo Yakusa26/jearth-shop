@@ -6,57 +6,32 @@ function ContactForm() {
       <div className="row">
         <div className="col-lg-6 contact_col">
           <div className="contact_contents">
-            <h1>Contact Us</h1>
+            <h1>Contacter nous</h1>
             <p>
-              There are many ways to contact us. You may drop us a line, give us
-              a call or send an email, choose what suits you the most.
+              Il existe de nombreuses façons de nous contacter. Vous pouvez nous
+              écrire, nous appeler ou nous envoyer un e-mail, choisissez ce qui
+              vous convient le mieux.
             </p>
             <div>
               <p>(800) 686-6688</p>
-              <p>info.deercreative@gmail.com</p>
+              <p>jeart.shop@gmail.com</p>
             </div>
             <div>
-              <p>mm</p>
-            </div>
-            <div>
-              <p>Open hours: 8.00-18.00 Mon-Fri</p>
-              <p>Sunday: Closed</p>
+              <p>Horaires d'ouverture: 8H00-21H00 Lundi-Vendrredi</p>
+              <p>Dimanche: Fermé</p>
             </div>
           </div>
 
           {/* <!-- Follow Us --> */}
-
-          <div className="follow_us_contents">
-            <h1>Follow Us</h1>
-            <ul className="social d-flex flex-row">
-              <li>
-                <a href="#" style={{ backgroundColor: "#3a61c9" }}>
-                  <i className="fa fa-facebook" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" style={{ backgroundColor: "#41a1f6" }}>
-                  <i className="fa fa-twitter" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" style={{ backgroundColor: "#fb4343" }}>
-                  <i className="fa fa-google-plus" aria-hidden="true"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" style={{ backgroundColor: "#8f6247" }}>
-                  <i className="fa fa-instagram" aria-hidden="true"></i>
-                </a>
-              </li>
-            </ul>
-          </div>
         </div>
 
         <div className="col-lg-6 get_in_touch_col">
           <div className="get_in_touch_contents">
-            <h1>Get In Touch With Us!</h1>
-            <p>Fill out the form below to recieve a free and confidential.</p>
+            <h1>Replissez</h1>
+            <p>
+              Remplissez le formulaire ci-dessous pour recevoir une réponse
+              gratuite et confidentielle.
+            </p>
             <form>
               <div>
                 <input
